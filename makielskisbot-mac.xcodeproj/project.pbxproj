@@ -350,6 +350,7 @@
 					"makielskisbot-macos-gui/",
 					"/Users/felix/Documents/makielskisbot-macos-gui/makielskisbot-macos-gui/packages",
 				);
+				MACOSX_DEPLOYMENT_TARGET = 10.7;
 				PRODUCT_NAME = "makielskisbot-mac";
 				WRAPPER_EXTENSION = app;
 			};
@@ -368,6 +369,7 @@
 					"makielskisbot-macos-gui/",
 					"/Users/felix/Documents/makielskisbot-macos-gui/makielskisbot-macos-gui/packages",
 				);
+				MACOSX_DEPLOYMENT_TARGET = 10.7;
 				PRODUCT_NAME = "makielskisbot-mac";
 				WRAPPER_EXTENSION = app;
 			};
