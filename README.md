@@ -1,6 +1,5 @@
-
-    Makielskis Bot User Interface for Mac OS X
-    ------------------------------------------
+Makielskis Bot User Interface for Mac OS X
+-------------------------------------
 
 
 
